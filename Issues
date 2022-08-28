@@ -1,3 +1,6 @@
 1. Failed to execute goal org.springframework.boot:spring-boot-maven-plugin:2.3.2.RELEASE:repackage (repackage) on project Service-Edu: Execution repackage of goal org.springframework.boot:spring-boot-maven-plugin:2.3.2.RELEASE:repackage failed: Unable to find main class
 
 参考 https://blog.csdn.net/qq_37844454/article/details/115459733  删掉SBLearn pom的中编译插件
+
+
+2.  Swagger  unable to infer base url.
